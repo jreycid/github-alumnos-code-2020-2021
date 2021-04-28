@@ -1,4 +1,4 @@
-# github-alumnos-code-2020-2021
+# github-alumnado-code-2020-2021
 
 Perfiles de GitHub do alumnado de **Contornos de desenvolvemento** da promoción 2020 - 2022 do **IES Ramón Mª Aller Ulloa**.
 
